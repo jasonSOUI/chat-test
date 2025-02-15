@@ -1,0 +1,366 @@
+[
+  {
+    "en_name": "accommodation",
+    "ch_name": "適應/住宿"
+  },
+  {
+    "en_name": "advance",
+    "ch_name": "提升"
+  },
+  {
+    "en_name": "advantage",
+    "ch_name": "優點"
+  },
+  {
+    "en_name": "advertisement",
+    "ch_name": "廣告"
+  },
+  {
+    "en_name": "agency",
+    "ch_name": "經辦/代理"
+  },
+  {
+    "en_name": "ambition",
+    "ch_name": "野心"
+  },
+  {
+    "en_name": "ancient",
+    "ch_name": "古代的"
+  },
+  {
+    "en_name": "announcement",
+    "ch_name": "公告"
+  },
+  {
+    "en_name": "application",
+    "ch_name": "申請表格"
+  },
+  {
+    "en_name": "appointment",
+    "ch_name": "預約"
+  },
+  {
+    "en_name": "architecture",
+    "ch_name": "建築物"
+  },
+  {
+    "en_name": "arrangement",
+    "ch_name": "整理"
+  },
+  {
+    "en_name": "available",
+    "ch_name": "可用的"
+  },
+  {
+    "en_name": "behaviour",
+    "ch_name": "行為"
+  },
+  {
+    "en_name": "benefit",
+    "ch_name": "利益"
+  },
+  {
+    "en_name": "biography",
+    "ch_name": "傳記"
+  },
+  {
+    "en_name": "biology",
+    "ch_name": "生物學"
+  },
+  {
+    "en_name": "boarding pass",
+    "ch_name": "登機證"
+  },
+  {
+    "en_name": "brochure",
+    "ch_name": "小冊子"
+  },
+  {
+    "en_name": "communicate",
+    "ch_name": "溝通"
+  },
+  {
+    "en_name": "convenient",
+    "ch_name": "方便的"
+  },
+  {
+    "en_name": "convince",
+    "ch_name": "說服"
+  },
+  {
+    "en_name": "curriculum",
+    "ch_name": "課程"
+  },
+  {
+    "en_name": "declare",
+    "ch_name": "宣佈"
+  },
+  {
+    "en_name": "defeat",
+    "ch_name": "打敗"
+  },
+  {
+    "en_name": "defense",
+    "ch_name": "防衛"
+  },
+  {
+    "en_name": "demand",
+    "ch_name": "要求"
+  },
+  {
+    "en_name": "deposit",
+    "ch_name": "存款"
+  },
+  {
+    "en_name": "depressed",
+    "ch_name": "抑鬱的"
+  },
+  {
+    "en_name": "deserve",
+    "ch_name": "值得"
+  },
+  {
+    "en_name": "despite",
+    "ch_name": "不管"
+  },
+  {
+    "en_name": "destination",
+    "ch_name": "終點"
+  },
+  {
+    "en_name": "disease",
+    "ch_name": "疾病"
+  },
+  {
+    "en_name": "documentary",
+    "ch_name": "紀錄片"
+  },
+  {
+    "en_name": "efficient",
+    "ch_name": "有效的"
+  },
+  {
+    "en_name": "employment",
+    "ch_name": "雇用"
+  },
+  {
+    "en_name": "entertainment",
+    "ch_name": "娛樂的"
+  },
+  {
+    "en_name": "essential",
+    "ch_name": "實在的"
+  },
+  {
+    "en_name": "exhibition",
+    "ch_name": "展覽"
+  },
+  {
+    "en_name": "expedition",
+    "ch_name": "遠征"
+  },
+  {
+    "en_name": "financial",
+    "ch_name": "財務上的"
+  },
+  {
+    "en_name": "forbidden",
+    "ch_name": "被禁止的"
+  },
+  {
+    "en_name": "generation",
+    "ch_name": "世代"
+  },
+  {
+    "en_name": "geography",
+    "ch_name": "地理"
+  },
+  {
+    "en_name": "graphics",
+    "ch_name": "圖表"
+  },
+  {
+    "en_name": "gymnastics",
+    "ch_name": "體操"
+  },
+  {
+    "en_name": "historic",
+    "ch_name": "歷史的"
+  },
+  {
+    "en_name": "hitchhike",
+    "ch_name": "搭便車"
+  },
+  {
+    "en_name": "identification",
+    "ch_name": "身份證明"
+  },
+  {
+    "en_name": "immediately",
+    "ch_name": "立即地"
+  },
+  {
+    "en_name": "improvement",
+    "ch_name": "改善"
+  },
+  {
+    "en_name": "individual",
+    "ch_name": "個人的"
+  },
+  {
+    "en_name": "instruction",
+    "ch_name": "指示"
+  },
+  {
+    "en_name": "interval",
+    "ch_name": "區間"
+  },
+  {
+    "en_name": "invention",
+    "ch_name": "發明"
+  },
+  {
+    "en_name": "journalist",
+    "ch_name": "記者"
+  },
+  {
+    "en_name": "knowledge",
+    "ch_name": "知識"
+  },
+  {
+    "en_name": "laboratory",
+    "ch_name": "實驗室"
+  },
+  {
+    "en_name": "landscape",
+    "ch_name": "風景"
+  },
+  {
+    "en_name": "league",
+    "ch_name": "聯盟"
+  },
+  {
+    "en_name": "lecture",
+    "ch_name": "講座"
+  },
+  {
+    "en_name": "literature",
+    "ch_name": "文學"
+  },
+  {
+    "en_name": "miserable",
+    "ch_name": "悲慘的"
+  },
+  {
+    "en_name": "multiply",
+    "ch_name": "乘"
+  },
+  {
+    "en_name": "narrow",
+    "ch_name": "狹窄的"
+  },
+  {
+    "en_name": "obvious",
+    "ch_name": "明顯的"
+  },
+  {
+    "en_name": "occasion",
+    "ch_name": "場合"
+  },
+  {
+    "en_name": "occupation",
+    "ch_name": "職業"
+  },
+  {
+    "en_name": "opportunity",
+    "ch_name": "機會"
+  },
+  {
+    "en_name": "orchestra",
+    "ch_name": "管弦樂隊"
+  },
+  {
+    "en_name": "organization",
+    "ch_name": "組織"
+  },
+  {
+    "en_name": "patient",
+    "ch_name": "病人"
+  },
+  {
+    "en_name": "pattern",
+    "ch_name": "花樣"
+  },
+  {
+    "en_name": "pavement",
+    "ch_name": "人行道"
+  },
+  {
+    "en_name": "pedestrian",
+    "ch_name": "步行者"
+  },
+  {
+    "en_name": "persuade",
+    "ch_name": "說服"
+  },
+  {
+    "en_name": "pharmacy",
+    "ch_name": "藥局"
+  },
+  {
+    "en_name": "physics",
+    "ch_name": "物理"
+  },
+  {
+    "en_name": "pleasure",
+    "ch_name": "愉快"
+  },
+  {
+    "en_name": "political",
+    "ch_name": "政治上的"
+  },
+  {
+    "en_name": "prescription",
+    "ch_name": "處方"
+  },
+  {
+    "en_name": "presentation",
+    "ch_name": "報告"
+  },
+  {
+    "en_name": "prevent",
+    "ch_name": "防止"
+  },
+  {
+    "en_name": "promote",
+    "ch_name": "促進"
+  },
+  {
+    "en_name": "receptionist",
+    "ch_name": "接待員"
+  },
+  {
+    "en_name": "recognize",
+    "ch_name": "辨別"
+  },
+  {
+    "en_name": "register",
+    "ch_name": "註冊"
+  },
+  {
+    "en_name": "religion",
+    "ch_name": "信仰"
+  },
+  {
+    "en_name": "request",
+    "ch_name": "請求"
+  },
+  {
+    "en_name": "research",
+    "ch_name": "研究"
+  },
+  {
+    "en_name": "retire",
+    "ch_name": "退休"
+  }
+]
