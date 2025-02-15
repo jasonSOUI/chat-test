@@ -6,12 +6,19 @@
           placeholder="Search for a word..."
           class="search-input"
         />
+        <div class="button-container">
+          <button @click="startQuiz">測驗</button>
+          <button @click="validateAnswers">驗證</button>
+        </div>
         <div class="card-container">
           <WordCard
             v-for="(word, index) in filteredWords"
             :key="index"
             :english="word.en_name"
             :chinese="word.ch_name"
+            :isQuizMode="isQuizMode"
+            :validate="validate"
+            :reset="reset"
           />
         </div>
       </div>
@@ -28,7 +35,10 @@
       data() {
         return {
           searchQuery: '',
-          words: wordsData
+          words: wordsData,
+          isQuizMode: false,
+          validate: false,
+          reset: false
         };
       },
       computed: {
@@ -40,6 +50,24 @@
             word.en_name.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
             word.ch_name.includes(this.searchQuery)
           );
+        }
+      },
+      methods: {
+        startQuiz() {
+          this.shuffleWords();
+          this.isQuizMode = true;
+          this.validate = false;
+          this.reset = true;
+          setTimeout(() => this.reset = false, 0); // Reset the flag immediately after
+        },
+        validateAnswers() {
+          this.validate = true;
+        },
+        shuffleWords() {
+          this.words = this.words
+            .map(value => ({ value, sort: Math.random() }))
+            .sort((a, b) => a.sort - b.sort)
+            .map(({ value }) => value);
         }
       }
     };
@@ -62,6 +90,24 @@
       background-color: #1e1e1e;
       color: #ffffff;
       box-sizing: border-box;
+    }
+
+    .button-container {
+      margin-bottom: 16px;
+    }
+
+    .button-container button {
+      margin: 0 8px;
+      padding: 8px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      background-color: #333;
+      color: #ffffff;
+    }
+
+    .button-container button:hover {
+      background-color: #444;
     }
 
     .card-container {

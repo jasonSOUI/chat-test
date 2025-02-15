@@ -44,10 +44,6 @@
     "ch_name": "有效的"
   },
   {
-    "en_name": "invention",
-    "ch_name": "發明"
-  },
-  {
     "en_name": "entertainment",
     "ch_name": "娛樂的"
   },
@@ -56,16 +52,8 @@
     "ch_name": "雇用"
   },
   {
-    "en_name": "instruction",
-    "ch_name": "指令"
-  },
-  {
     "en_name": "gymnastics",
     "ch_name": "體操"
-  },
-  {
-    "en_name": "interval",
-    "ch_name": "間隔"
   },
   {
     "en_name": "financial",
