@@ -1,74 +1,74 @@
 [
   {
-    "en_name": "essential",
-    "ch_name": "實在的"
+    "en_name": "instruction",
+    "ch_name": "指令"
   },
   {
-    "en_name": "individual",
-    "ch_name": "獨自的"
+    "en_name": "interval",
+    "ch_name": "間隔"
   },
   {
-    "en_name": "improvement",
-    "ch_name": "進步"
+    "en_name": "invention",
+    "ch_name": "發明"
   },
   {
-    "en_name": "expedition",
-    "ch_name": "遠征"
+    "en_name": "journalist",
+    "ch_name": "作家"
   },
   {
-    "en_name": "generation",
-    "ch_name": "世代"
+    "en_name": "knowledge",
+    "ch_name": "知識"
   },
   {
-    "en_name": "identification",
-    "ch_name": "識別"
+    "en_name": "laboratory",
+    "ch_name": "實驗室"
   },
   {
-    "en_name": "geography",
-    "ch_name": "地理"
+    "en_name": "landscape",
+    "ch_name": "風景"
   },
   {
-    "en_name": "forbidden",
-    "ch_name": "被禁止的"
+    "en_name": "league",
+    "ch_name": "同盟"
   },
   {
-    "en_name": "exhibition",
-    "ch_name": "展覽"
+    "en_name": "lecture",
+    "ch_name": "講義"
   },
   {
-    "en_name": "immediately",
-    "ch_name": "立即地"
+    "en_name": "leisure",
+    "ch_name": "閒暇"
   },
   {
-    "en_name": "efficient",
-    "ch_name": "有效的"
+    "en_name": "literature",
+    "ch_name": "文學"
   },
   {
-    "en_name": "entertainment",
-    "ch_name": "娛樂的"
+    "en_name": "miserable",
+    "ch_name": "不幸的"
   },
   {
-    "en_name": "employment",
-    "ch_name": "雇用"
+    "en_name": "multiply",
+    "ch_name": "乘"
   },
   {
-    "en_name": "gymnastics",
-    "ch_name": "體操"
+    "en_name": "narrow",
+    "ch_name": "狹窄的"
   },
   {
-    "en_name": "financial",
-    "ch_name": "財務上"
+    "en_name": "obvious",
+    "ch_name": "明顯的"
   },
   {
-    "en_name": "hitchhike",
-    "ch_name": "免費搭乘"
+    "en_name": "occasion",
+    "ch_name": "場合"
   },
   {
-    "en_name": "historic",
-    "ch_name": "歷史的"
+    "en_name": "occupation",
+    "ch_name": "職業"
   },
   {
-    "en_name": "graphics",
-    "ch_name": "圖表"
+    "en_name": "operation",
+    "ch_name": "動作"
   }
 ]
